@@ -66,16 +66,16 @@
 />
 <img 
     align="left" 
-    alt="NodeJS" 
-    title="Node"
+    alt="MySQL" 
+    title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
 />
 <img 
     align="left" 
-    alt="MySQL" 
-    title="MySQL"
+    alt="NodeJS" 
+    title="Node"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
