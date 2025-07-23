@@ -4,25 +4,6 @@
 
 "Hello World!" Me chamo Guilherme, tenho 23 anos, sou recém-formado no Curso Superior em Análise e Desenvolvimento de Sistemas pela UNIFRAN. Sou apaixonado por tecnologia, desenvolvimento e resolução de problemas!
 
-<p align="left">
-    <a href="https://www.instagram.com/g_siqueira2015/">
-        <img 
-            alt="instagram" 
-            title="Me siga no Instagram!" 
-            src="https://cdn-icons-png.flaticon.com/128/4138/4138124.png"
-            width="50px"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/adsguisiq/">
-        <img 
-            alt="Linkedin" 
-            title="Me adicione no Linkedin" 
-            src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png"
-            width="50px"
-        />
-    </a> 
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
